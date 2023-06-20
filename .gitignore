@@ -6,7 +6,17 @@ __pycache__/
 #Data
 /ear.7z
 /ear
-/structured_data
+/IITD
+
+/subset-1.zip
+/subset-2.zip
+/subset-3.zip
+/subset-4.zip
+/subset-1
+/subset-2
+/subset-3
+/subset-4
+/AMI
 
 # C extensions
 *.so
