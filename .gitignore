@@ -17,6 +17,7 @@ __pycache__/
 /subset-3
 /subset-4
 /AMI
+/adversarial_images
 
 # C extensions
 *.so
