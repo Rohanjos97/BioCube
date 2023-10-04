@@ -29,6 +29,7 @@ __pycache__/
 
 /FV_base.png
 
+/biocube/CBAM_weight/
 
 # C extensions
 *.so
