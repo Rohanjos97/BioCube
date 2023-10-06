@@ -25,10 +25,8 @@ __pycache__/
 /biocube/datasets/cropped-VERA-fingervein
 /biocube/datasets/VERA-fingervein
 
-/biocube/CASIA-Multi-Spectral-PalmprintV1.zip
-/biocube/VERA-fingervein.rar
-
-/FV_base.png
+/biocube/datasets/CASIA-Multi-Spectral-PalmprintV1.zip
+/biocube/datasets/VERA-fingervein.rar
 
 /biocube/CBAM_weight/
 
