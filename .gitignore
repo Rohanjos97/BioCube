@@ -28,6 +28,10 @@ __pycache__/
 /biocube/datasets/CASIA-Multi-Spectral-PalmprintV1.zip
 /biocube/datasets/VERA-fingervein.rar
 
+/biocube/datasets/jabcode
+/biocube/datasets/qrcode
+
+
 /biocube/CBAM_weight/
 
 # C extensions
