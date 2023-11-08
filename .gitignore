@@ -19,7 +19,7 @@ __pycache__/
 /ear_patch/AMI
 /ear_patch/adversarial_images
 
-
+/biocube/datasets/*
 /biocube/datasets/CASIA-Multi-Spectral-PalmprintV1
 /biocube/datasets/LR-VERA-fingervein
 /biocube/datasets/cropped-VERA-fingervein
@@ -31,7 +31,9 @@ __pycache__/
 /biocube/datasets/jabcode
 /biocube/datasets/qrcode
 
-
+/biocube/checkpoints
+/biocube/chrome-win64
+/biocube/SMOP
 /biocube/CBAM_weight/
 
 # C extensions
