@@ -20,17 +20,10 @@ __pycache__/
 /ear_patch/adversarial_images
 
 /biocube/datasets/*
-/biocube/datasets/CASIA-Multi-Spectral-PalmprintV1
-/biocube/datasets/LR-VERA-fingervein
-/biocube/datasets/cropped-VERA-fingervein
-/biocube/datasets/VERA-fingervein
+/biocube/images/
+/biocube/gif_images/
 
-/biocube/datasets/CASIA-Multi-Spectral-PalmprintV1.zip
-/biocube/datasets/VERA-fingervein.rar
-
-/biocube/datasets/jabcode
-/biocube/datasets/qrcode
-
+/biocube/conditional_generator.h5
 /biocube/checkpoints
 /biocube/chrome-win64
 /biocube/SMOP
