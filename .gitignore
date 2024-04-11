@@ -2,32 +2,15 @@
 __pycache__/
 *.py[cod]
 *$py.class
+.gitignore
 
 #Data
-/ear_patch/ear.7z
-/ear_patch/ear
-/ear_patch/IITD
 
-/ear_patch/subset-1.zip
-/ear_patch/subset-2.zip
-/ear_patch/subset-3.zip
-/ear_patch/subset-4.zip
-/ear_patch/subset-1
-/ear_patch/subset-2
-/ear_patch/subset-3
-/ear_patch/subset-4
-/ear_patch/AMI
-/ear_patch/adversarial_images
+/datasets/*
 
-/biocube/datasets/*
-/biocube/images/
-/biocube/gif_images/
-
-/biocube/conditional_generator.h5
 /biocube/checkpoints
 /biocube/chrome-win64
-/biocube/SMOP
-/biocube/CBAM_weight/
+
 
 # C extensions
 *.so
