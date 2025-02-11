@@ -1,2 +1,8 @@
 # major_project
-Adversarial attack on ear recognition system.
+BioCube: Cancelable Biohash Encoded and Infinity Cube Transformed Biometric Template Generation
+
+# Abstract
+Traditional authentication methods such as passwords or tokens struggle to combat identity fraud effectively. Biometric authentication, while promising, faces challenges such as privacy invasion and irrevocability. In response, cancelable biometrics address these concerns while preserving the performance. BioHashing is a well-established technique that blends pseudo-random vectors with biometric data for enhanced security. However, it is vulnerable to identity theft. We propose BioCube, a hybrid encryption framework which efficiently encrypts finger-vein biometric templates first into a biohash based on which two biometric template protection schemes are proposed. In both schemes, biohash is transformed into 3-channel images. First scheme uses a Just Another Barcode (JAB code) encoder while the second one employs a pseudo-random probabilistic (PRP) generator. JAB code encodes data into unique 2D barcodes, providing a visually complex and secure data representation. In contrast, the PRP generator uses user-specific pseudo-random numbers to create uniquely patterned and complex images, enhancing security. Although JAB code is computationally more efficient, the PRP template surpasses it in terms of security capabilities. These images further undergo transformations akin to states of the infinity cube, a kind of mechanical puzzle. The resulting biometric templates demonstrate high efficacy with a 0% equal error rate and align with the pillars of performance, unlinkability, reusability and non-invertibility.
+
+# Keywords
+Cancelable biometrics, Just nnother barcode, PRP generator, Infinity cube transformation, BioHash
